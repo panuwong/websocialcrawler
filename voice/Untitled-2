@@ -1,0 +1,6 @@
+*/50 * * * * curl -k http://128.199.133.169:8081/update-camp?model=instagram
+*/50 * * * * curl -k http://128.199.133.169:8081/update-camp?model=facebook
+*/50 * * * * curl -k http://128.199.133.169:8081/update-camp?model=web
+*/50 * * * * curl -k http://128.199.133.169:8081/update-camp?model=twitter
+*/50 * * * * curl -k http://128.199.133.169:8081/update-camp?model=youtube
+*/50 * * * * curl -k http://128.199.133.169:8081/update-camp?model=pantip

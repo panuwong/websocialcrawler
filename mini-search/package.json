@@ -1,0 +1,29 @@
+{
+  "name": "expressscrapedstarter",
+  "version": "1.0.0",
+  "description": "Scraped",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DEWDEV",
+  "license": "ISC",
+  "dependencies": {
+    "array-unique": "^0.3.2",
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "date-and-time": "^0.6.3",
+    "dateformat": "^3.0.3",
+    "express": "^4.16.3",
+    "got": "^9.2.2",
+    "mongojs": "^2.6.0",
+    "mongoose": "^5.3.2",
+    "node-instagram": "^4.2.0",
+    "nodemon": "^1.18.7",
+    "pm2": "^3.2.3",
+    "puppeteer": "^1.9.0",
+    "request": "^2.88.0",
+    "upper-case": "^1.1.3"
+  }
+}
