@@ -16,7 +16,7 @@
     "date-and-time": "^0.6.3",
     "dateformat": "^3.0.3",
     "express": "^4.16.3",
-    "got": "^9.2.2",
+    "got": "^11.8.5",
     "mongojs": "^2.6.0",
     "mongoose": "^5.3.2",
     "node-instagram": "^4.2.0",
